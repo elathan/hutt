@@ -1,4 +1,4 @@
 hutt
 ====
 
-Hacker News in Mutt
+Hacker News in Mutt.
