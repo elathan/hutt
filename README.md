@@ -17,6 +17,4 @@ The code is free.
 --elathan (elias.athanasopoulos@gmail.com)
 23 February 2013.
 
-[[hutt-shot-pane.png]]
-![Screenshot 2] (https://github.com/elathan/hutt/blob/master/hutt-shot.png
 
